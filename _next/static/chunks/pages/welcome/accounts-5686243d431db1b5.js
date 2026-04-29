@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6829],{33555:function(n,c,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/welcome/accounts",function(){return t(83880)}])},83880:function(n,c,t){"use strict";t.r(c);var u=t(85893),e=t(9008),s=t.n(e),i=t(15186);c.default=()=>(0,u.jsxs)(u.Fragment,{children:[(0,u.jsx)(s(),{children:(0,u.jsx)("title",{children:"Vault – My accounts"})}),(0,u.jsx)(i.Z,{})]})}},function(n){n.O(0,[2888,9774,179],function(){return n(n.s=33555)}),_N_E=n.O()}]);
+//# sourceMappingURL=accounts-5686243d431db1b5.js.map

@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9673],{33843:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/transactions",function(){return t(48176)}])},48176:function(n,u,t){"use strict";t.r(u);var _=t(69966);u.default=_.default}},function(n){n.O(0,[5306,6572,1745,8337,6001,3398,9966,2888,9774,179],function(){return n(n.s=33843)}),_N_E=n.O()}]);
+//# sourceMappingURL=transactions-ac98aa17c4da146a.js.map
